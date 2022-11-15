@@ -1,13 +1,13 @@
-package com.example.adlisterspringboot;
+package com.codeup.adlister;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdlisterSpringbootApplication {
+public class AlisterSpringbokApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AdlisterSpringbootApplication.class, args);
+        SpringApplication.run(AlisterSpringbokApplication.class, args);
     }
 
 }
